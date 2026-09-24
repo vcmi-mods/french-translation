@@ -29,6 +29,7 @@
 	"translations" : [
 		"config/vcmi-french/game.json",
 		"config/vcmi-french/maps.json",
-		"config/vcmi-french/campaigns.json"
+		"config/vcmi-french/campaigns.json",
+		"config/vcmi-french/chronicles.json"
 	]
 }
